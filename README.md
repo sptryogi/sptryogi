@@ -45,22 +45,12 @@
 6. **[PlayScroll - Recommendation System for Movies and Music](https://github.com/sptryogi/Movie-Music)**  
    Simple Movies App uses React JS, allowing users to search and filter the movies they want.
 
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogisaputra&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogisaputra&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 📫 Connect with Me:
 <p align="center">
   <a href="[https://linkedin.com/in/yogi-saputra](https://www.linkedin.com/in/yogi-saputra-5614b618b/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yogi_ai"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 ---
